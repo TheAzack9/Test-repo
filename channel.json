@@ -1,0 +1,6 @@
+{
+    "skins": {
+        "mnmlUI":"https://github.com/khanhas/mnmlUI",
+        "polybar":"https://github.com/khanhas/Polybar"
+    }
+}
