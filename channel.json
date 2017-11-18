@@ -1,5 +1,6 @@
 {
     "skins": {
-        "mnmlUI":"https://github.com/TheAzack9/mnmlUI"
+        "mnmlUI":"https://github.com/TheAzack9/mnmlUI",
+        "polybar":"https://github.com/TheAzack9/Polybar"
     }
 }
